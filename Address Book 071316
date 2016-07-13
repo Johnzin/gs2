@@ -27,4 +27,4 @@ var list = function (){
     list();
     
     //why does it go through 3x and have undef between the names//
-    
+    //looks like if i change line 22 = contacts.length; it removes the undef but still repeats. hmmm//
